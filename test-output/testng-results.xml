@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3608" started-at="2018-09-09T16:46:25Z" finished-at="2018-09-09T16:46:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3608" started-at="2018-09-09T16:46:25Z" finished-at="2018-09-09T16:46:29Z">
+      <class name="com.onforce.interview.assignment.test.PostAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.onforce.interview.assignment.test.PostAPITest@5034c75a]" name="setUp" is-config="true" duration-ms="9" started-at="2018-09-09T12:46:25Z" finished-at="2018-09-09T12:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidURL()[pri:0, instance:com.onforce.interview.assignment.test.PostAPITest@5034c75a]" name="invalidURL" duration-ms="980" started-at="2018-09-09T12:46:25Z" finished-at="2018-09-09T12:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidURL -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.onforce.interview.assignment.test.PostAPITest@5034c75a]" name="setUp" is-config="true" duration-ms="0" started-at="2018-09-09T12:46:26Z" finished-at="2018-09-09T12:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postAPITest()[pri:0, instance:com.onforce.interview.assignment.test.PostAPITest@5034c75a]" name="postAPITest" duration-ms="2590" started-at="2018-09-09T12:46:26Z" finished-at="2018-09-09T12:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPITest -->
+      </class> <!-- com.onforce.interview.assignment.test.PostAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
